@@ -1,0 +1,13 @@
+=== System Activity Log started at 2025-12-09 06:58:30 ===
+2025-12-09 06:58:36 | PROCESS | dllhost.exe | PID: 8696
+2025-12-09 06:58:45 | PROCESS | cmd.exe | PID: 18548
+2025-12-09 06:58:45 | PROCESS | conhost.exe | PID: 7116
+2025-12-09 06:58:45 | PROCESS | tasklist.exe | PID: 608
+2025-12-09 06:58:58 | PROCESS | Taskmgr.exe | PID: 2352
+2025-12-09 06:59:04 | PROCESS | consent.exe | PID: 19840
+2025-12-09 06:59:07 | PROCESS | factorio.exe | PID: 6760
+2025-12-09 06:59:07 | PROCESS | GameBar.exe | PID: 12592
+2025-12-09 06:59:07 | PROCESS | RuntimeBroker.exe | PID: 12704
+2025-12-09 06:59:07 | PROCESS | GameBarFTServer.exe | PID: 18808
+2025-12-09 06:59:28 | PROCESS | Sifu.exe | PID: 18000
+2025-12-09 06:59:28 | PROCESS | Sifu-Win64-Shipping.exe | PID: 3520
